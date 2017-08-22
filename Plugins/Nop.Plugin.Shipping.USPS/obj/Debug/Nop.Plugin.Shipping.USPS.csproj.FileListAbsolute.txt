@@ -1,0 +1,6 @@
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Shipping.USPS\Description.txt
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Shipping.USPS\logo.jpg
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
+E:\Code\nopCommerce-master\nopCommerce-master\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
+E:\Code\nopCommerce-master\nopCommerce-master\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb

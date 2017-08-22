@@ -1,0 +1,6 @@
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\bin\Nop.Admin.dll
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\bin\Nop.Admin.pdb
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojResolveAssemblyReference.cache
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb

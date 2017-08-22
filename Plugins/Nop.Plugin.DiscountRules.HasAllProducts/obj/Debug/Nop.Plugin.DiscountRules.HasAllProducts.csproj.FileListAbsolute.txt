@@ -1,0 +1,6 @@
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Description.txt
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\logo.jpg
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.dll
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.pdb
+E:\Code\nopCommerce-master\nopCommerce-master\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.dll
+E:\Code\nopCommerce-master\nopCommerce-master\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.pdb

@@ -1,0 +1,8 @@
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Misc.WebServices\Description.txt
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Misc.WebServices\logo.jpg
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\NopService.svc
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Misc.WebServices\Remote\web.config
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.dll
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Misc.WebServices\Nop.Plugin.Misc.WebServices.pdb
+E:\Code\nopCommerce-master\nopCommerce-master\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.dll
+E:\Code\nopCommerce-master\nopCommerce-master\Plugins\Nop.Plugin.Misc.WebServices\obj\Debug\Nop.Plugin.Misc.WebServices.pdb

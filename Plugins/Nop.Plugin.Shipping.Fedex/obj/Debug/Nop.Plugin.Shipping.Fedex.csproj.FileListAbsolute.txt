@@ -1,0 +1,7 @@
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Shipping.Fedex\Description.txt
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Shipping.Fedex\logo.jpg
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll.config
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
+E:\Code\nopCommerce-master\nopCommerce-master\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
+E:\Code\nopCommerce-master\nopCommerce-master\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
+E:\Code\nopCommerce-master\nopCommerce-master\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb
